@@ -10,5 +10,5 @@
 
 **To Run**
 
-* Run the test class `com/test/parking/ParkingServiceApplicationTests.java`
+* Run the test class `com/test/parking/service/ParkingServiceImplTest.java`
 
